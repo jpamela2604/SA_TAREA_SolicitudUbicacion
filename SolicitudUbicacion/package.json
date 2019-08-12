@@ -1,0 +1,15 @@
+{
+  "name": "servicio_solicitud_ubicacion",
+  "version": "1.0.0",
+  "description": "Servicio que simula procesar la solicitud de un cliente por un uber",
+  "main": "ServicioSolicitudUbicacion.js",
+  "scripts": {
+    "test": "node ServicioSoliticutUbicacion.js"
+  },
+  "keywords": [
+    "api",
+    "servicio"
+  ],
+  "author": "Jenifer Palacios",
+  "license": "ISC"
+}
